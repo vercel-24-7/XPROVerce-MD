@@ -155,7 +155,9 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
 > 📊 *Quality:* ${oce}${quality}${oce}
 > =====================
 > 📌 *Description:*  
-> ${oce}_${description ? description.substring(0, 400) + (description.length > 400 ? "..." : "") : "No description available."}_${oce}`.trim();
+> ${oce}_${description || "No description available."}_${oce}
+
+`.trim();
   },
   CINETVSHOW: function (episodeInfo,quality,oce) {
     return `
