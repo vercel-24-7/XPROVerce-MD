@@ -27,7 +27,7 @@ Designed for **speed, stability, and scalability**, it supports plugins, automat
 - 📥 Media download & processing
 - 👥 Group moderation & automation
 - 🌙 Night Mode & presence control
-- ⚙️ Free & Premium settings
+- ⚙️ Free & Premium ssettings
 - 📢 Status auto-view & reactions
 - 🔐 Session auto-restore
 - 🌐 Built-in Express server
