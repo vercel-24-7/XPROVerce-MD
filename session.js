@@ -53,7 +53,7 @@ module.exports = {
     : ["94740571366", "94740707157"],
   PORT: process.env.PORT || "3000",
   SESSION_DIR: process.env.SESSION_DIR || "sess",
-  TOKEN: "pr1S3gvgh1wJioPnxV0TTX433YOmiN1LrQuX",
+  TOKEN: "iGQoTPmutbBp10bpyjHNjEjlGhXu6L4f5qhj",
   USERNAME: "vercel-24-7",
   REPO_NAME: "XPROVerce-MD",
 };
